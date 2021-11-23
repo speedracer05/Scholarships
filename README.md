@@ -18,7 +18,7 @@ This repository contains a web application that scrapes www.scholarships.com for
 [ChromeDriver - WebDriver for Chrome](https://chromedriver.chromium.org/downloads)
 
 ## Resources
-1. [Running Selinum headless with Chrome](https://linuxhint.com/chrome_selenium_headless_running/)
-
+1. [How to use Selenium to Webscrape](https://towardsdatascience.com/how-to-use-selenium-to-web-scrape-with-example-80f9b23a843a)
+2. [How to enable Splinter to interact with a browser](https://splinter.readthedocs.io/en/latest/drivers/chrome.html)
 ## Contact
 [John Chan](https://github.com/speedracer05)
