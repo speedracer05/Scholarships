@@ -20,5 +20,7 @@ This repository contains a web application that scrapes www.scholarships.com for
 ## Resources
 1. [How to use Selenium to Webscrape](https://towardsdatascience.com/how-to-use-selenium-to-web-scrape-with-example-80f9b23a843a)
 2. [How to enable Splinter to interact with a browser](https://splinter.readthedocs.io/en/latest/drivers/chrome.html)
+3. [Using BeautifulSoup to parse HTML](http://www.compjour.org/warmups/govt-text-releases/intro-to-bs4-lxml-parsing-wh-press-briefings/)
+
 ## Contact
 [John Chan](https://github.com/speedracer05)
