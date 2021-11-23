@@ -9,6 +9,9 @@ This repository contains a web application that scrapes www.scholarships.com for
 -   [Resources](#resources)
 -   [Contact](#contact)
 
+## Setup
+
+
 ## Tools and Sources
 `conda install -c anaconda selenium`
 `conda install -c anaconda beautifulsoup4`
